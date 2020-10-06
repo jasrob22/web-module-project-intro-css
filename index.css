@@ -1,0 +1,13 @@
+div {
+    height: 400px;
+    width: 400px;
+  }
+
+    div {
+    height: 100%;
+    width: auto;
+  }
+
+  div {
+    border: 1px solid black;
+  }
